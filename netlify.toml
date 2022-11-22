@@ -1,4 +1,5 @@
 [build]
+  publish = "dist/master10"
   command = "ng build"
 [[redirects]]
   from = "/*"
